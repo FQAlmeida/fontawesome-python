@@ -7,7 +7,7 @@ REL_VERSION = '1'
 setup(
     name='fontawesome',
     packages=['fontawesome'],
-    version=fontawesome.VERSION + '-' + REL_VERSION,
+    version="6.0.4",
     description='The Font Awesome icon set for python',
     long_description=pypandoc.convert_file('readme.md', 'rst'),
     license='Code: Apache License, Version 2.0, Icons: SIL OFL 1.1',
